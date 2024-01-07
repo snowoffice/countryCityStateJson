@@ -1011,78 +1011,42 @@
 	"name": "Western Australia",
 	"country_id": "13"
 }, {
-	"id": "277",
-	"name": "Bundesland Salzburg",
-	"country_id": "14"
+  "id": "280",
+  "name": "Burgenland",
+  "country_id": "14"
 }, {
-	"id": "278",
-	"name": "Bundesland Steiermark",
-	"country_id": "14"
+  "id": "282",
+  "name": "Kärnten",
+  "country_id": "14"
 }, {
-	"id": "279",
-	"name": "Bundesland Tirol",
-	"country_id": "14"
+  "id": "285",
+  "name": "Niederösterreich",
+  "country_id": "14"
 }, {
-	"id": "280",
-	"name": "Burgenland",
-	"country_id": "14"
+  "id": "286",
+  "name": "Oberösterreich",
+  "country_id": "14"
 }, {
-	"id": "281",
-	"name": "Carinthia",
-	"country_id": "14"
+  "id": "287",
+  "name": "Salzburg",
+  "country_id": "14"
 }, {
-	"id": "282",
-	"name": "Karnten",
-	"country_id": "14"
+  "id": "289",
+  "name": "Steiermark",
+  "country_id": "14"
 }, {
-	"id": "283",
-	"name": "Liezen",
-	"country_id": "14"
+  "id": "291",
+  "name": "Tirol",
+  "country_id": "14"
 }, {
-	"id": "284",
-	"name": "Lower Austria",
-	"country_id": "14"
+  "id": "293",
+  "name": "Vorarlberg",
+  "country_id": "14"
 }, {
-	"id": "285",
-	"name": "Niederosterreich",
-	"country_id": "14"
-}, {
-	"id": "286",
-	"name": "Oberosterreich",
-	"country_id": "14"
-}, {
-	"id": "287",
-	"name": "Salzburg",
-	"country_id": "14"
-}, {
-	"id": "288",
-	"name": "Schleswig-Holstein",
-	"country_id": "14"
-}, {
-	"id": "289",
-	"name": "Steiermark",
-	"country_id": "14"
-}, {
-	"id": "290",
-	"name": "Styria",
-	"country_id": "14"
-}, {
-	"id": "291",
-	"name": "Tirol",
-	"country_id": "14"
-}, {
-	"id": "292",
-	"name": "Upper Austria",
-	"country_id": "14"
-}, {
-	"id": "293",
-	"name": "Vorarlberg",
-	"country_id": "14"
-}, {
-	"id": "294",
-	"name": "Wien",
-	"country_id": "14"
-}, {
+  "id": "294",
+  "name": "Wien",
+  "country_id": "14"
+},  {
 	"id": "295",
 	"name": "Abseron",
 	"country_id": "15"
